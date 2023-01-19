@@ -1,0 +1,3 @@
+sudo apt install ffmpeg
+sudo apt-get install build-essential cmake pkg-config
+
